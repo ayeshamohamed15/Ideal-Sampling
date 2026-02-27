@@ -1,4 +1,6 @@
-# Ideal, Natural, & Flat-top -Sampling
+# EXP NO:1- Ideal, Natural, & Flat-top -Sampling
+# NAME: AYESHA M
+# REG NO: 212224060034
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
